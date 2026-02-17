@@ -74,19 +74,19 @@ KBZ Bank | August 2025 – Present
 - Decision Tree
 - Data Preprocessing
 - Model Evaluation (R², MAE, MSE)
+  
 
 ### Tools & Technologies
 - Git & GitHub
 - Linux
 - SQL (Basic)
-- Pandas, NumPy, Matplotlib
+- Pandas, NumPy, Matplotlib,tensorflow, scikit-learn, yolo, openCV
 
 ---
 
 ## 📈 Current Focus
 
 - Strengthening SQL & Backend skills
-- Building practical AI portfolio projects
 - Improving problem-solving and system design fundamentals
 
 ---
@@ -99,8 +99,8 @@ Disciplined, consistent, and committed to long-term growth in AI engineering.
 ---
 
 ## 📫 Contact
-linkin-linkedin.com/in/moe-zaw-aung
-mail - mr.moezawaung.tu@gmail.com
-phone - 09751505722
+- linkin-linkedin.com/in/moe-zaw-aung
+- mail - mr.moezawaung.tu@gmail.com
+- phone - 09751505722
 
 Open to collaboration and opportunities.
