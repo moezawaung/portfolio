@@ -99,7 +99,7 @@ Disciplined, consistent, and committed to long-term growth in AI engineering.
 ---
 
 ## 📫 Contact
-- linkin-linkedin.com/in/moe-zaw-aung
+- linkin - linkedin.com/in/moe-zaw-aung
 - mail - mr.moezawaung.tu@gmail.com
 - phone - 09751505722
 
